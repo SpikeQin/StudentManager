@@ -1,0 +1,23 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Build
+target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database configuration (contains passwords)
+src/main/resources/db.properties
+
+# WorkBuddy workspace data
+.workbuddy/
+
+# User-uploaded runtime data (avatars, etc.)
+src/main/webapp/userImg/
